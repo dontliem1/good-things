@@ -4,7 +4,7 @@
  */
 
 html {
-  font: 125%/1.4 "Young Serif Regular", "Georgia", serif;
+  font: 125%/1.4 "Literata", "Georgia", serif;
   background-color: var(--color-background);
   color: var(--color-text);
 }
@@ -35,7 +35,7 @@ body {
 
 p {
   margin: 0;
-  font: 600 1em/1.2 "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font: 600 1em/1.2 "Golos Text", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   color: var(--color-subtle-text);
 }
 
@@ -87,7 +87,7 @@ a:focus {
 
 .site-header__title {
   margin: 0 0 .25em;
-  font: 800 2.5em/1 "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font: 800 2.5em/1 "Golos Text", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
 
 .site-header__good {

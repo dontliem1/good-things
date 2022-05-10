@@ -1,6 +1,6 @@
 # Good Things
 
-A compilation of good sensory things in life. Live site: https://goodthings.melanie-richards.com
+A compilation of good sensory things in life. Live site: https://mygoodthings.netlify.app
 
 Built with [Eleventy](https://www.11ty.dev/docs/).
 
